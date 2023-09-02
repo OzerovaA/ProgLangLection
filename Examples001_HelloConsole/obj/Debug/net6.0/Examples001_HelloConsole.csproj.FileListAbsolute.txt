@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.exe
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.deps.json
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.runtimeconfig.json
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.dll
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\bin\Debug\net6.0\Examples001_HelloConsole.pdb
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.AssemblyInfo.cs
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.dll
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\refint\Examples001_HelloConsole.dll
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.pdb
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\Examples001_HelloConsole.genruntimeconfig.cache
+C:\Users\Анастасия\Anastasia\personal\1_Обучение гик брейнс\Знакомство с языками программирования\Lection1\Examples\Examples001_HelloConsole\obj\Debug\net6.0\ref\Examples001_HelloConsole.dll
