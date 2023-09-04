@@ -1,13 +1,17 @@
-﻿Console.Clear();
-Console.SetCursorPosition(10,4);
-Console.WriteLine("+");
+﻿
+Console.SetBufferSize(300, 300);
 
-int xa = 4;
+Console.Clear();
+Console.WriteLine("Console is clear");
+//Console.SetCursorPosition(10,4);
+//Console.WriteLine("+");
+
+int xa = 1;
 int ya = 1;
-int xb = 1;
-int yb = 3;
-int xc = 8;
-int yc = 3;
+int xb = 80;
+int yb = 1;
+int xc = 40;
+int yc = 40;
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
 
@@ -21,7 +25,7 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count< 10)
+while(count< 1000)
 {
     int what = new Random().Next(0,3);
     if(what == 0)
@@ -37,10 +41,10 @@ while(count< 10)
     if(what==2)
     {
         x = (x+xc)/2;
-        y = (y+yc)/2;
+       y = (y+yc)/2;
     }
 
-    Console.SetCursorPosition(x, y);
+   Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
-    count = count+1;
+   count = count+1;
 }
