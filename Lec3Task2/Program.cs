@@ -14,12 +14,12 @@ void PrintArray(int [] array)
 }
 void SelestionSort(int[] array)
 {
-     for(int i =0 ; i<array.Length; i++)
+     for(int i =0 ; i<array.Length-1; i++)
      {
         int minPosition = i;
-         for(int i =0 ; i<array.Length; i++)
+         for(int j =i+1 ; j<array.Length; j++)
          {
-            //Лекция 3 , 35:24
+            if(array[j]< array[minPosition]) minPosition=j;
          }
         int temporary = array [i];
         array [i] = array [minPosition];
@@ -27,4 +27,6 @@ void SelestionSort(int[] array)
      }
 }
 
+PrintArray(arr);
+SelestionSort(arr);
 PrintArray(arr);
