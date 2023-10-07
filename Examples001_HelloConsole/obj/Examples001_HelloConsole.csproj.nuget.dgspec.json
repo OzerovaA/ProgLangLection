@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
+    "C:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
+    "C:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
         "projectName": "Examples001_HelloConsole",
-        "projectPath": "c:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\Examples001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\Анастасия\\Anastasia\\personal\\1_Обучение гик брейнс\\Знакомство с языками программирования\\Lection1\\Examples\\Examples001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config"
